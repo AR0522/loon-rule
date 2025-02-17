@@ -1,0 +1,8 @@
+# Monica AI分流规则
+# 更新时间：2025-02-17
+
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN,claude.ai
+DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,anthropic
