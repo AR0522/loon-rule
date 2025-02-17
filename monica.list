@@ -9,5 +9,15 @@ DOMAIN-SUFFIX,monica.dev,MONICA
 DOMAIN-SUFFIX,monica.tech,MONICA
 DOMAIN-SUFFIX,monica.cloud,MONICA
 DOMAIN-SUFFIX,monica.im,MONICA
+DOMAIN-SUFFIX,monica.io,MONICA
+DOMAIN-SUFFIX,monica.co,MONICA
+DOMAIN-SUFFIX,monica.net,MONICA
+DOMAIN-SUFFIX,monica.org,MONICA
+
 DOMAIN,api.monica.im,MONICA
+DOMAIN,cdn.monica.com,MONICA
+DOMAIN,static.monica.ai,MONICA
+DOMAIN,proxy.monica.tech,MONICA
+
 DOMAIN-KEYWORD,monica,MONICA
+
